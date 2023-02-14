@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/nicolereilly/mike-lab/issues"
   },
-  "homepage": "https://github.com/nicolereilly/mike-lab#readme"
+  "homepage": "https://github.com/nicolereilly/mike-lab#readme",
+  "devDependencies": {}
 }
